@@ -1,3 +1,9 @@
+atari800 (5.0.0-1) unstable; urgency=low
+
+  * New upstream version 5.0.0
+
+ -- Matthias Reichl <hias@horus.com>  Sat, 09 Jul 2022 23:32:16 +0200
+
 atari800 (4.2.0-1) unstable; urgency=low
 
   * New upstream version 4.2.0
